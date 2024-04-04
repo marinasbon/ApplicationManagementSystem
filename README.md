@@ -1,4 +1,4 @@
-# TF_POO
+# Application Management System
 
 This Java application provides a system for managing applications, clients, and subscriptions. It allows users to perform operations such as registering clients, adding/editing applications, and managing subscriptions.
 
