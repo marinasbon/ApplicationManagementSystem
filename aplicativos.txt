@@ -1,0 +1,6 @@
+1,Spotify,IOS,12.99
+2,Netflix,Windows,37.99
+3,HBO Max,Android,22.39
+4,Apple TV,IOS,14.99
+5,HeloysaApp,IOS,19.99
+232323,iFood,IOS,15.99
